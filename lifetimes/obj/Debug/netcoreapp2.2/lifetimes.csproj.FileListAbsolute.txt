@@ -1,0 +1,14 @@
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\bin\Debug\netcoreapp2.2\lifetimes.deps.json
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\bin\Debug\netcoreapp2.2\lifetimes.runtimeconfig.json
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\bin\Debug\netcoreapp2.2\lifetimes.runtimeconfig.dev.json
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\bin\Debug\netcoreapp2.2\lifetimes.dll
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\bin\Debug\netcoreapp2.2\lifetimes.pdb
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.csprojAssemblyReference.cache
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.RazorAssemblyInfo.cache
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.RazorAssemblyInfo.cs
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.AssemblyInfo.cs
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.RazorTargetAssemblyInfo.cache
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.dll
+C:\Users\Yusuf\Workspace\dotnet\examples\lifetimes\obj\Debug\netcoreapp2.2\lifetimes.pdb
